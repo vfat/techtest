@@ -1,3 +1,11 @@
+# REQUIREMENT 
+
+```
+PostgreSQL 13
+Nodejs v16.17.0
+npm 9.7.1
+```
+
 # RUNNING PROJECT
 ```
 node index.js
